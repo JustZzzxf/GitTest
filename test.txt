@@ -23,4 +23,5 @@ fun1(){
 
 fun2(){
 	I have finished function2!
+	modify
 }
