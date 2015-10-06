@@ -17,7 +17,7 @@ branch3 modify!
 branch4 modify!
 
 fun1(){
-
+	I have finished function1!
 }
 
 fun2(){
