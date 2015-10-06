@@ -2,6 +2,8 @@ remote test
 
 branch2 insert in the mid
 
+branch2 insert again!
+
 to push on the github
 branch modify
 test in master again!
