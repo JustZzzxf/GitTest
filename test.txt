@@ -13,3 +13,13 @@ test in brach
 master insert in the end!
 
 branch3 modify!
+
+branch4 modify!
+
+fun1(){
+
+}
+
+fun2(){
+
+}
